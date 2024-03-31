@@ -1,1 +1,1 @@
-A small project when I add CSS elements to complete the assigment
+A small project where I add CSS elements to complete the assigment
